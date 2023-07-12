@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md
 -->
 
 - ✉️ How to reach me: james.coppock@duke.edu
-- 👨🏼‍💻 3rd-year PhD candidate in BME @ Duke University in the [DeFrate Musculoskeletal Bioengineering Lab](https://sites.duke.edu/defratelab/) 
+- 👨🏼‍💻 Recent Doctoral Graduate in Biomedical Engineering @ Duke University in the [DeFrate Musculoskeletal Bioengineering Lab](https://sites.duke.edu/defratelab/) 
 - 🛠 Developing algorithms to analyze *in vivo* tissue mechanics using MR images
 - 💼 Pursuing my interests in precision medicine, entrepreneurship, and data science
 - 🤝 Looking to collaborate on projects that improve healthcare data processing, acquisition and patient diagnostics 
