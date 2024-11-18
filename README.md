@@ -8,7 +8,7 @@
 https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md
 -->
 
-- ✉️ How to reach me: j.avery.coppock@gmail.com | james.coppock@bionichealth.com
-- 👨🏼‍💻 Head of Data Science & AI @ [Bionic Health](https://www.bionichealth.com/) 🧬
+- ✉️ How to reach me: j.avery.coppock@gmail.com
+- 👨🏼‍💻 Checkout my [Portfolio](https://www.jacoppock.dev)
 - 🛠 Developing deep-learning and generative-based algorithms to personalize and optimize healthcare
 - 👨🏼‍🎓 Former Doctoral Student in Biomedical Engineering @ Duke University in the [DeFrate Musculoskeletal Bioengineering Lab](https://sites.duke.edu/defratelab/) 
