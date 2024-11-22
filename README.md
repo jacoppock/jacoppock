@@ -10,5 +10,5 @@ https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md
 
 - ✉️ How to reach me: j.avery.coppock@gmail.com
 - 👨🏼‍💻 Checkout my [Portfolio](https://www.jacoppock.dev)
-- 🛠 Developing deep-learning and generative-based algorithms to personalize and optimize healthcare
+- 🛠 Developing deep-learning and multi-modal-LLM algorithms to personalize and optimize healthcare
 - 👨🏼‍🎓 PhD in Biomedical Engineering @ Duke University in the [DeFrate Musculoskeletal Bioengineering Lab](https://sites.duke.edu/defratelab/) 
